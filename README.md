@@ -22,8 +22,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Acessar no terminal a pasta onde se encontra o projeto Frontend.</br>
 Rodar o comando yarn install.</br>
-Rodar o comando json-server --watch database.json para o backend.</br>
-Rodar o comando yarn serve.
+Rodar em um console o comando json-server --watch database.json para o backend.</br>
+E todar o comando yarn serve em outro console.
 
 ## 📝 Licença
 
