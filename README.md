@@ -1,12 +1,11 @@
 # Todo list em Vue.js
 
 ## 💻 Sobre o Projeto
-
-
+Todo list criado em Vue.js utilizando o Vuex. Utilizei o Tailwind.css para fazer o layout. Os dados são salvos em uma API Mockada para simular o backend. Já as rotas do TODO são feitas com o Axios.
 
 ## 🎨 Layout
 
-![image]()
+![image](https://github.com/marianamoiolicapelari/todo-list-vue/blob/main/src/assets/img/layout.png)
 
 ## 🛠 Tecnologias
 
