@@ -14,6 +14,26 @@
       "id": 3,
       "title": "Estudar composition API",
       "completed": false
+    },
+    {
+      "title": "teste ABC",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Java",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Script",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "title": "caneta",
+      "completed": false,
+      "id": 7
     }
   ]
 }
